@@ -1,0 +1,7 @@
+# OS General
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+*.swp
+.obsidian
